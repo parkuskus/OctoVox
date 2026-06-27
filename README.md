@@ -1,5 +1,7 @@
 # OctoVox - Tucil 2 IF2211 Algorithm Strategies
 
+![Vovexelization Result](cover.png)
+
 OctoVox is a program for voxelizing 3D models in OBJ format using an octree data structure based on Divide and Conquer. It provides interactive visualization, max-depth configuration, voxelization statistics, and export of the voxelized result to a new OBJ file.
 
 ## Overview
