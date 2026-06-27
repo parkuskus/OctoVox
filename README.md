@@ -1,4 +1,4 @@
-# OctoVox - Tucil 2 IF2211 Algorithm Strategies
+# OctoVox
 
 ![Vovexelization Result](cover.png)
 
